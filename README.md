@@ -2,7 +2,7 @@
 
 Public landing and legal pages for Ver Fikrini.
 
-Live at: https://verfikrini.github.io
+Live at: https://verfikrini.com (also https://verfikrini.github.io)
 
 ## Pages
 
